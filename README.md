@@ -1,6 +1,6 @@
 # 10086中国移动登录
 
-B站视频：待录制
+B站视频：https://www.bilibili.com/video/BV1RH6fYPEkn/
 
 代码仓库：https://github.com/JSREP/login.10086.cn-RE
 
