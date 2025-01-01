@@ -1,0 +1,12 @@
+{
+  "name": "login.10086.cn-RE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JSREP/login.10086.cn-RE.git",
+  "author": "CC11001100 <CC11001100@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsencrypt": "^3.3.2",
+    "node-jsencrypt": "^1.0.0"
+  }
+}
